@@ -1,8 +1,5 @@
 ## INSTALATION GUIDE UNTUK DEVELOPMENT APLIKASI LAPOR LAPANGAN
 
-<img width="1080" height="2400" alt="Screenshot_1789066747" src="https://github.com/user-attachments/assets/9ae51a48-0b82-44b7-a29d-c43c4302a4e5" />
-
-
 Lapor Lapangan adalah aplikasi mobile untuk petugas lapangan yang digunakan untuk:
    - Login melalui Supabase Authentication.
    - Melihat daftar pekerjaan.
@@ -12,6 +9,8 @@ Lapor Lapangan adalah aplikasi mobile untuk petugas lapangan yang digunakan untu
    - Mengunggah foto bukti.
    - Menyimpan data sementara saat offline.
    - Melakukan sinkronisasi otomatis saat koneksi kembali.
+
+<img width="1080" height="2400" alt="Screenshot_1789066747" src="https://github.com/user-attachments/assets/9ae51a48-0b82-44b7-a29d-c43c4302a4e5" />
 
 #### Requirement:
 - Git
